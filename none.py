@@ -1,0 +1,2 @@
+weapons = None
+print(weapons)
